@@ -1,3 +1,4 @@
 _('.first').init({
-   status: 'ok'
+    status: 'ok',
+    scrollOverflow: false
 });

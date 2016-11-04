@@ -1,3 +1,7 @@
+.fullPageBody {
+    height: 100%;
+    margin: 0;
+}
 .first {
     width: 100px;
     height: 100px;
